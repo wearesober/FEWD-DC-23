@@ -22,6 +22,14 @@ Learning Objectives
 
 ---
 
+## But First!!
+### Let's talk about Sublime
+
+Note:
+Talk about how to organize files and add as a project.
+
+---
+
 #HTML Basics Review
 
 Note:
