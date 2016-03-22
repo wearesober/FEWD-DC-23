@@ -30,6 +30,12 @@ What would you like to review?
 
 ---
 
+## GitHub
+
+Sync the class repo with changes made since Tuesday!
+
+---
+
 ## What is a Div?
 
 ---
