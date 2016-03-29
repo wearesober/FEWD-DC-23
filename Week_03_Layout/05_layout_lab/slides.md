@@ -23,6 +23,9 @@ Learning Objectives
 
 Let's talk about last week's homework.. questions?
 
+Note:
+Do a GitHub review; update the GitHub class repo!
+
 ---
 
 ## What was up with that starter CSS?
