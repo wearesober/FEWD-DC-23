@@ -30,10 +30,10 @@ Starting in class, you will work to build out a more complex layout for their co
 - Add a hover effect to all the links using pseudo-classes
 - Integrate drop caps using pseudo-classes
 
+---
 
 ### Bonus
-- Link the "Blog" link in the header to the page you've built for this assignment
-- Link the "About" link in the header to the [landing page](../../Week_02_Styling/Assignment/starter_code/images/relaxr_landing.jpg) you built last week
+- Make this page responsive by having the right-hand column display below the left-hand column on smaller (phone-sized) screens.
 - Up for a real challenge? Use ```<script>``` tags in your HTML and [read ahead](https://learn.jquery.com/events/event-basics/) to make a dialogue box pop up when a user clicks "Sign Up Now!" that reads "We're Not Ready For Sign-Ups...Yet."
 
 ---
