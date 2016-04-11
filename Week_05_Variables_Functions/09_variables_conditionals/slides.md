@@ -405,9 +405,7 @@ CFU!
 
 ---
 
-## Lab time soon!
-
-But first, a couple more jQuery functions for you! 
+## A couple more jQuery functions for you! 
 
 ---
 
