@@ -55,35 +55,6 @@ We are using jQuery to make our code simpler.
 
 ---
 
-## Document Ready
-
-* jQuery function that wraps around all of the rest of your jQuery code
-* Makes sure your jQuery does not run until after your webpage has completely loaded
-
-```
-$(document).ready(function() {
-   // ALL of your jQuery code goes here! 
-});
-```
-
----
-
-## event.preventDefault();
-
-* Use in the functions you call in event handlers to prevent the default action.
-* Example: For links, __default__ = going to another page
-
-```
-$('#clickMe').click(myFunction);
-
-function myFunction() {
-    event.preventDefault();
-    // Other stuff goes here
-}
-```
-
----
-
 ## Functions
 
 __Functions__ are chunks of code that accomplish a specific task.
