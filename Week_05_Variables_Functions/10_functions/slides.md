@@ -115,6 +115,28 @@ Functions with no name.
 
 ---
 
+## Anonymous Functions
+
+```
+$('a.readMore').click(function() {
+    // Do stuff here
+});
+```
+
+---
+
+## Remember document.ready?
+
+That is an anonymous function!
+
+```
+$(document).ready(function() {
+    // All the jQuery goes here!
+});
+```
+
+---
+
 ![GeneralAssemb.ly](../../img/icons/code_along.png)
 ## Anonymous Cash Register
 

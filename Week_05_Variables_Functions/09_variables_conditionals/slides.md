@@ -452,3 +452,11 @@ $('p.giant').removeClass('purple');
 
 Note:
 If there's time, demo animate with colors and opacity.
+
+---
+
+## Milestones
+
+* Thursday: Wireframes for your finals
+* Monday: Homework for this week
+* In 2 weeks: Final project HTML/CSS (draft), pseudocode for your JS
